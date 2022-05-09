@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+}
+body {
+    background-color: #141623;
+    font-size: 100%;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 100px;
+    gap: 50px;
+   
+}
+.logo-1 {
+    margin-right: 
+}
+.titulos {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    margin-right: 20px;
+}
+.palavra-1 {
+    color: #fff;
+    font-weight: 600;
+}
+.palavra-2 {
+    color: #A9A5A6;
+    font-weight: 400;
+}
+.palavra-3 {
+    color: #A9A5A6;
+    font-weight: 400;
+}
+.palavra-4 {
+    color: #A9A5A6;
+    font-weight: 400;
+}
+.botão {
+    color: #fff;
+    background-color: #00966B;
+    border: none;
+    border-radius: 8px;
+    width: 158px;
+    height: 54px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 1000px;
+}
+.principal {
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-size: 90px;
+    font-weight: bold;
+    display: block;
+    margin-left: 100px;
+    float: inline-start;
+    margin-top: 0;
+}
+.principal-0 {
+    display: flex;
+    flex-direction: row;
+}
+.sub-0 {
+    color:#A9A5A6;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 100px;
+}
+.botão-1 {
+    color: #fff;
+    background-color: #00966B;
+    border: none;
+    border-radius: 8px;
+    width: 158px;
+    height: 54px;
+    font-size: 18px;
+    font-weight: 600;
+   margin-left: 100px;
+}
+.play {
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 8px;
+    display: flex;
+    flex-direction: row;
+}
+.seta {
+    margin-left: 25px;
+}
+.não-sei {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+.cel {
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 900px;
+    position: fixed;
+    top: 100px;
+   z-index: 100;
+   left: 10pt;
+}

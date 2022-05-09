@@ -15,7 +15,6 @@ header {
     align-items: flex-end;
     padding: 100px;
     gap: 50px;
-   
 }
 .logo-1 {
     margin-right: 
@@ -54,6 +53,10 @@ header {
     font-size: 18px;
     font-weight: 600;
     margin-left: 1000px;
+}
+.botão:hover, .botão-1:hover {
+    background-color: rgba(255, 255, 255, 0.25);
+    cursor:pointer;
 }
 .principal {
     color: #fff;
